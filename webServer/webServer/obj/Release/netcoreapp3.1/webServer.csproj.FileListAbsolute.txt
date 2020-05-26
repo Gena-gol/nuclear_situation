@@ -1,0 +1,443 @@
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\webServer.exe
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\webServer.deps.json
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\webServer.runtimeconfig.json
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\webServer.runtimeconfig.dev.json
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\webServer.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\webServer.pdb
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\EntityFramework.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\SQLite-net.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.winsqlite3.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Trofi\source\repos\webServer\webServer\obj\Release\netcoreapp3.1\webServer.csproj.CoreCompileInputs.cache
+C:\Users\Trofi\source\repos\webServer\webServer\obj\Release\netcoreapp3.1\webServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Trofi\source\repos\webServer\webServer\obj\Release\netcoreapp3.1\webServer.AssemblyInfoInputs.cache
+C:\Users\Trofi\source\repos\webServer\webServer\obj\Release\netcoreapp3.1\webServer.AssemblyInfo.cs
+C:\Users\Trofi\source\repos\webServer\webServer\obj\Release\netcoreapp3.1\webServer.RazorTargetAssemblyInfo.cache
+C:\Users\Trofi\source\repos\webServer\webServer\obj\Release\netcoreapp3.1\webServer.csproj.CopyComplete
+C:\Users\Trofi\source\repos\webServer\webServer\obj\Release\netcoreapp3.1\staticwebassets\webServer.StaticWebAssets.Manifest.cache
+C:\Users\Trofi\source\repos\webServer\webServer\obj\Release\netcoreapp3.1\staticwebassets\webServer.StaticWebAssets.xml
+C:\Users\Trofi\source\repos\webServer\webServer\obj\Release\netcoreapp3.1\webServer.dll
+C:\Users\Trofi\source\repos\webServer\webServer\obj\Release\netcoreapp3.1\webServer.pdb
+C:\Users\Trofi\source\repos\webServer\webServer\obj\Release\netcoreapp3.1\webServer.genruntimeconfig.cache
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\SqliteLib.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\SqliteLib.pdb
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\source\repos\webServer\webServer\obj\Release\netcoreapp3.1\webServer.csprojAssemblyReference.cache
+C:\Users\Trofi\source\repos\webServer\webServer\bin\Release\netcoreapp3.1\web.config
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\web.config
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\webServer.exe
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\webServer.deps.json
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\webServer.runtimeconfig.json
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\webServer.runtimeconfig.dev.json
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\webServer.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\webServer.pdb
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\EntityFramework.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\SQLite-net.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.winsqlite3.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\SqliteLib.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\bin\Release\netcoreapp3.1\SqliteLib.pdb
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\obj\Release\netcoreapp3.1\webServer.csprojAssemblyReference.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\obj\Release\netcoreapp3.1\webServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\obj\Release\netcoreapp3.1\webServer.AssemblyInfoInputs.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\obj\Release\netcoreapp3.1\webServer.AssemblyInfo.cs
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\obj\Release\netcoreapp3.1\webServer.RazorTargetAssemblyInfo.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\obj\Release\netcoreapp3.1\webServer.csproj.CopyComplete
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\obj\Release\netcoreapp3.1\staticwebassets\webServer.StaticWebAssets.Manifest.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\obj\Release\netcoreapp3.1\staticwebassets\webServer.StaticWebAssets.xml
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\obj\Release\netcoreapp3.1\webServer.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\obj\Release\netcoreapp3.1\webServer.pdb
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\webServer\obj\Release\netcoreapp3.1\webServer.genruntimeconfig.cache
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\web.config
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\webServer.exe
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\webServer.deps.json
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\webServer.runtimeconfig.json
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\webServer.runtimeconfig.dev.json
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\webServer.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\webServer.pdb
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\EntityFramework.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\SQLite-net.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.winsqlite3.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\SqliteLib.dll
+C:\Users\Trofi\Desktop\webServer\webServer\bin\Release\netcoreapp3.1\SqliteLib.pdb
+C:\Users\Trofi\Desktop\webServer\webServer\obj\Release\netcoreapp3.1\webServer.csprojAssemblyReference.cache
+C:\Users\Trofi\Desktop\webServer\webServer\obj\Release\netcoreapp3.1\webServer.csproj.CoreCompileInputs.cache
+C:\Users\Trofi\Desktop\webServer\webServer\obj\Release\netcoreapp3.1\webServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Trofi\Desktop\webServer\webServer\obj\Release\netcoreapp3.1\webServer.AssemblyInfoInputs.cache
+C:\Users\Trofi\Desktop\webServer\webServer\obj\Release\netcoreapp3.1\webServer.AssemblyInfo.cs
+C:\Users\Trofi\Desktop\webServer\webServer\obj\Release\netcoreapp3.1\webServer.RazorTargetAssemblyInfo.cache
+C:\Users\Trofi\Desktop\webServer\webServer\obj\Release\netcoreapp3.1\webServer.csproj.CopyComplete
+C:\Users\Trofi\Desktop\webServer\webServer\obj\Release\netcoreapp3.1\staticwebassets\webServer.StaticWebAssets.Manifest.cache
+C:\Users\Trofi\Desktop\webServer\webServer\obj\Release\netcoreapp3.1\staticwebassets\webServer.StaticWebAssets.xml
+C:\Users\Trofi\Desktop\webServer\webServer\obj\Release\netcoreapp3.1\webServer.dll
+C:\Users\Trofi\Desktop\webServer\webServer\obj\Release\netcoreapp3.1\webServer.pdb
+C:\Users\Trofi\Desktop\webServer\webServer\obj\Release\netcoreapp3.1\webServer.genruntimeconfig.cache

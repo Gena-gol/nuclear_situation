@@ -1,0 +1,41 @@
+C:\Users\Trofi\source\repos\webServer\WebClient\bin\Release\WebClient.exe.config
+C:\Users\Trofi\source\repos\webServer\WebClient\bin\Release\WebClient.exe
+C:\Users\Trofi\source\repos\webServer\WebClient\bin\Release\WebClient.pdb
+C:\Users\Trofi\source\repos\webServer\WebClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\Trofi\source\repos\webServer\WebClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\Trofi\source\repos\webServer\WebClient\obj\Release\MainWindow.g.cs
+C:\Users\Trofi\source\repos\webServer\WebClient\obj\Release\App.g.cs
+C:\Users\Trofi\source\repos\webServer\WebClient\obj\Release\WebClient_MarkupCompile.cache
+C:\Users\Trofi\source\repos\webServer\WebClient\obj\Release\WebClient_MarkupCompile.lref
+C:\Users\Trofi\source\repos\webServer\WebClient\obj\Release\MainWindow.baml
+C:\Users\Trofi\source\repos\webServer\WebClient\obj\Release\WebClient.g.resources
+C:\Users\Trofi\source\repos\webServer\WebClient\obj\Release\WebClient.Properties.Resources.resources
+C:\Users\Trofi\source\repos\webServer\WebClient\obj\Release\WebClient.csproj.GenerateResource.cache
+C:\Users\Trofi\source\repos\webServer\WebClient\obj\Release\WebClient.csproj.CoreCompileInputs.cache
+C:\Users\Trofi\source\repos\webServer\WebClient\obj\Release\WebClient.csproj.CopyComplete
+C:\Users\Trofi\source\repos\webServer\WebClient\obj\Release\WebClient.exe
+C:\Users\Trofi\source\repos\webServer\WebClient\obj\Release\WebClient.pdb
+C:\Users\Trofi\source\repos\webServer\WebClient\bin\Release\SqliteLib.dll
+C:\Users\Trofi\source\repos\webServer\WebClient\bin\Release\SqliteLib.pdb
+C:\Users\Trofi\source\repos\webServer\WebClient\obj\Release\WebClient.csprojAssemblyReference.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\bin\Release\WebClient.exe.config
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\bin\Release\WebClient.exe
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\bin\Release\WebClient.pdb
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\bin\Release\SqliteLib.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\bin\Release\SqliteLib.pdb
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\obj\Release\WebClient.csprojAssemblyReference.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\obj\Release\MainWindow.g.cs
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\obj\Release\App.g.cs
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\obj\Release\WebClient_MarkupCompile.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\obj\Release\WebClient_MarkupCompile.lref
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\obj\Release\MainWindow.baml
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\obj\Release\WebClient.g.resources
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\obj\Release\WebClient.Properties.Resources.resources
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\obj\Release\WebClient.csproj.GenerateResource.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\obj\Release\WebClient.csproj.CopyComplete
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\obj\Release\WebClient.exe
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\WebClient\obj\Release\WebClient.pdb

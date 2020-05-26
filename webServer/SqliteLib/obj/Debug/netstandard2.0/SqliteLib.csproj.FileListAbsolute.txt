@@ -1,0 +1,16 @@
+C:\Users\Trofi\source\repos\webServer\SqliteLib\bin\Debug\netstandard2.0\SqliteLib.deps.json
+C:\Users\Trofi\source\repos\webServer\SqliteLib\bin\Debug\netstandard2.0\SqliteLib.dll
+C:\Users\Trofi\source\repos\webServer\SqliteLib\obj\Debug\netstandard2.0\SqliteLib.AssemblyInfoInputs.cache
+C:\Users\Trofi\source\repos\webServer\SqliteLib\obj\Debug\netstandard2.0\SqliteLib.AssemblyInfo.cs
+C:\Users\Trofi\source\repos\webServer\SqliteLib\bin\Debug\netstandard2.0\SqliteLib.pdb
+C:\Users\Trofi\source\repos\webServer\SqliteLib\obj\Debug\netstandard2.0\SqliteLib.dll
+C:\Users\Trofi\source\repos\webServer\SqliteLib\obj\Debug\netstandard2.0\SqliteLib.pdb
+C:\Users\Trofi\source\repos\webServer\SqliteLib\obj\Debug\netstandard2.0\SqliteLib.csproj.CoreCompileInputs.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\SqliteLib\bin\Debug\netstandard2.0\SqliteLib.deps.json
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\SqliteLib\bin\Debug\netstandard2.0\SqliteLib.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\SqliteLib\bin\Debug\netstandard2.0\SqliteLib.pdb
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\SqliteLib\obj\Debug\netstandard2.0\SqliteLib.csprojAssemblyReference.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\SqliteLib\obj\Debug\netstandard2.0\SqliteLib.AssemblyInfoInputs.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\SqliteLib\obj\Debug\netstandard2.0\SqliteLib.AssemblyInfo.cs
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\SqliteLib\obj\Debug\netstandard2.0\SqliteLib.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\SqliteLib\obj\Debug\netstandard2.0\SqliteLib.pdb

@@ -1,0 +1,73 @@
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\bin\Release\netcoreapp3.1\Site.exe
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\bin\Release\netcoreapp3.1\Site.deps.json
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\bin\Release\netcoreapp3.1\Site.runtimeconfig.json
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\bin\Release\netcoreapp3.1\Site.runtimeconfig.dev.json
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\bin\Release\netcoreapp3.1\Site.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\bin\Release\netcoreapp3.1\Site.pdb
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\bin\Release\netcoreapp3.1\Site.Views.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\bin\Release\netcoreapp3.1\Site.Views.pdb
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.csprojAssemblyReference.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.RazorAssemblyInfo.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.RazorAssemblyInfo.cs
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.AssemblyInfoInputs.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.AssemblyInfo.cs
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.TagHelpers.input.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.TagHelpers.output.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.RazorCoreGenerate.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cs
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.Views.pdb
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.Manifest.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.xml
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.dll
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.pdb
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.genruntimeconfig.cache
+C:\Users\Olga Shishkina\Desktop\Димина программа\webServer\Site\obj\Release\netcoreapp3.1\Site.csproj.CopyComplete
+C:\Users\Trofi\Desktop\webServer\Site\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Trofi\Desktop\webServer\Site\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Trofi\Desktop\webServer\Site\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Trofi\Desktop\webServer\Site\bin\Release\netcoreapp3.1\Site.exe
+C:\Users\Trofi\Desktop\webServer\Site\bin\Release\netcoreapp3.1\Site.deps.json
+C:\Users\Trofi\Desktop\webServer\Site\bin\Release\netcoreapp3.1\Site.runtimeconfig.json
+C:\Users\Trofi\Desktop\webServer\Site\bin\Release\netcoreapp3.1\Site.runtimeconfig.dev.json
+C:\Users\Trofi\Desktop\webServer\Site\bin\Release\netcoreapp3.1\Site.dll
+C:\Users\Trofi\Desktop\webServer\Site\bin\Release\netcoreapp3.1\Site.pdb
+C:\Users\Trofi\Desktop\webServer\Site\bin\Release\netcoreapp3.1\Site.Views.dll
+C:\Users\Trofi\Desktop\webServer\Site\bin\Release\netcoreapp3.1\Site.Views.pdb
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.csprojAssemblyReference.cache
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.csproj.CoreCompileInputs.cache
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.RazorAssemblyInfo.cache
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.RazorAssemblyInfo.cs
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.AssemblyInfoInputs.cache
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.AssemblyInfo.cs
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.TagHelpers.input.cache
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.TagHelpers.output.cache
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.RazorCoreGenerate.cache
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cache
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cs
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.Views.pdb
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.Manifest.cache
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.xml
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.dll
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.pdb
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.genruntimeconfig.cache
+C:\Users\Trofi\Desktop\webServer\Site\obj\Release\netcoreapp3.1\Site.csproj.CopyComplete
